@@ -142,6 +142,8 @@ The accompanying MP4s are attributed reference copies for private viewing and an
 
 See `archive-manifest.csv` for exact source links, displayed play counts, selection basis, sizes and checksums
 
+The MP4s themselves are attached to release v1.0 of this repository (Assets section), under the exact filenames listed in the manifest
+
 High-play selection means a few useful examples with observed profile-grid play counts, not an invented minimum threshold
 
 Play counts were observed on 27 October 2026 and can change, they do not prove unique viewers, organic acquisition, watch-through, audience fit or sales
