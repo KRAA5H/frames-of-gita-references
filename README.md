@@ -151,3 +151,8 @@ Play counts were observed on 27 October 2026 and can change, they do not prove u
 Religious, historical and linguistic claims in the videos remain the creators' claims until independently checked
 
 No user credentials, private conversations or internal working records are included
+
+
+## Latest additions
+
+See [Urmila puppet-stage and Ramanujan biography references](latest-references.md) for the two videos added on 27 October, with source links, observed metrics and style notes
