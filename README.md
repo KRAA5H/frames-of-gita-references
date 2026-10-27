@@ -120,15 +120,21 @@ These are supporting craft references, not a change to the Hindu subject matter
 
 Earlier-review entries preserve the conclusions of prior viewing, they were not all re-watched for this collection
 
-## Foundational lead still needing exact-handle reconciliation
+## Foundational sculpted-scene reference
 
-The original account was discussed as `frames.of.quran`, and later notes also say `quran.of.frames`
+Account verified live: https://www.instagram.com/frames.of.quran/
 
-Keep that naming uncertainty visible rather than linking the wrong account
+The profile links to https://framesofquran.com/ and displayed 29 posts and 579K followers at inspection
 
-The observed website is https://framesofquran.com/ but its ownership binding to a particular Instagram handle is not settled in this collection
+Earlier notes also used `quran.of.frames`, retain that only as a historical naming mix-up, not a second verified account
 
 Earlier viewing described sculpted stone scenes, dark backgrounds, restrained gold, a small mystery and a gradual reveal
+
+A prior reviewed example opened "Not once in the Quran does Allah call out O Muhammad", with 2M views reported by the external viewer on 25 October, not a fresh current count
+
+That exact example's canonical reel link has not been reconciled, so do not attach an unrelated reel to its analysis
+
+Follower totals and prior view counts are not proof of organic growth or a reproducible acquisition model
 
 ## Private video archive
 
