@@ -1,6 +1,10 @@
 # Frames of Gita reference library
 
-Private working collection, checked 27 October 2026
+Reference collection for the Frames of Gita Instagram project, checked 27 October 2026
+
+## New here?
+
+Read [GETTING-STARTED.md](GETTING-STARTED.md) for how to make a video from scratch: tools, workflow, export settings and honest limits. Ready-to-adapt prompts live in [prompts/](prompts/) with sources in [prompts/SOURCES.md](prompts/SOURCES.md).
 
 Study the storytelling and visual techniques, not a licence to reuse another creator's art, voice, music or footage publicly
 
