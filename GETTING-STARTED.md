@@ -32,9 +32,12 @@ The `prompts/` folder holds prompts collected from X and chat, each verbatim in 
 - Hare story reel: https://www.instagram.com/framesofgita/reel/De__z5dqlHR/
 - Carousel post: https://www.instagram.com/p/DfAXDIjEQlt/
 
-## A tested code example
+## Tested code examples
 
-`examples/text-scene/` contains a self-contained Python script that draws a complete 8-second vertical MP4 (a verse fading in over a starfield) with no AI imagery and no third-party assets. Install Pillow and ffmpeg, run `python3 generate.py`, and you have a real exported video to inspect and adapt. It was run end-to-end from a fresh checkout on 29 Oct 2026 and the frames were visually checked.
+Two self-contained Python scripts draw complete vertical MP4s with no AI imagery and no third-party assets. Install Pillow and ffmpeg, run `python3 generate.py` in either folder, and you have a real exported video to inspect and adapt. Both were run end-to-end from a fresh checkout on 29 Oct 2026 and their frames were visually checked.
+
+- `examples/text-scene/` - minimal starter template: a verse fading in over a starfield, 8 seconds
+- `examples/diya-lamps/` - real project code: an oil-lamp ignition cascade with pull-out and closing text, 13 seconds
 
 ## Honest limits
 
