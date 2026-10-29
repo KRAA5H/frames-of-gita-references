@@ -1,6 +1,6 @@
 # Getting started: making a Frames of Gita video from scratch
 
-Frames of Gita makes short vertical videos (Instagram reels) that explain stories and ideas from the Bhagavad Gita. This guide is everything a newcomer needs to make a first video using only this repo and free or common tools.
+Frames of Gita makes short vertical videos (Instagram reels) that explain stories and ideas from the Bhagavad Gita. This guide walks through making a first video. Most steps use tools outside this repo (a chatbot, a video generator or your own drawing/coding, an editor, Instagram). The one part that runs end-to-end from the repo alone is the tested code example in `examples/text-scene/`.
 
 ## What you need
 
@@ -31,6 +31,10 @@ The `prompts/` folder holds prompts collected from X and chat, each verbatim in 
 - Pixel-art style reel: https://www.instagram.com/framesofgita/reel/De95mvKqEZ0/
 - Hare story reel: https://www.instagram.com/framesofgita/reel/De__z5dqlHR/
 - Carousel post: https://www.instagram.com/p/DfAXDIjEQlt/
+
+## A tested code example
+
+`examples/text-scene/` contains a self-contained Python script that draws a complete 8-second vertical MP4 (a verse fading in over a starfield) with no AI imagery and no third-party assets. Install Pillow and ffmpeg, run `python3 generate.py`, and you have a real exported video to inspect and adapt. It was run end-to-end from a fresh checkout on 29 Oct 2026 and the frames were visually checked.
 
 ## Honest limits
 
