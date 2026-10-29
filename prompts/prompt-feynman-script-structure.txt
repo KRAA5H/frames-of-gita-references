@@ -1,0 +1,25 @@
+I strongly recommend that everyone add "Feynman Technique" to the prompts when writing AI narration scripts!!!!!
+
+AI-related content is easily understood by viewers, leading them to scroll away quickly. The Feynman Technique can explain complex concepts in a simple and accessible way.
+
+Here's a reference prompt:
+
+You are a short video creator who excels at explaining complex AI concepts in simple, relatable terms.
+
+Please use the Feynman Technique to write a narration script for [Platform: Douyin/Video Account/Xiaohongshu]. The theme is: [Specific Theme].
+
+The overall structure must strictly follow this sequence:
+
+ First Three-Second Hook (Choose the most suitable one from the following forms):   - Rhetorical Question   - Counterintuitive Fact   - Number   - Conflict   The hook should be direct and impactful, making people want to keep listening.
+
+ Pain Point Resonance: Say the exact thought that's on the viewer's mind, creating a "that's me!" feeling.
+
+ This Episode's Promise: Clearly tell viewers what they'll gain from watching (e.g., solving a problem, learning something, avoiding a pitfall).
+
+ Main Content (Explain using the Feynman Technique):   - Use very simple, everyday language, like teaching a friend who knows nothing about AI.   - Must include one fitting real-life analogy.   - As soon as a technical term appears, immediately translate it into everyday language.   - Proactively point out a common misconception and correct it.   - The explanation should have rhythm, be conversational, and suitable for speaking directly to the camera.
+
+ Ending Call to Action:   - Can guide viewers to like, save, or follow, or naturally lead into the next episode's content.   - Avoid being forced; wrap up naturally in line with the content.
+
+Other Requirements: - Total length controlled to [Fill in seconds or word count, e.g., 60-90 seconds / around 180 words]. - Language should feel natural and spoken, avoiding written formality. - Analogies must fit naturally, without forcing them.
+
+Please output the complete narration script directly, and mark the hook type you chose at the beginning.
