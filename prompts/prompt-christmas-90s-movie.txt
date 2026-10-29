@@ -1,0 +1,19 @@
+Claude Code v2.1.76
+Opus 5.5 (1M context) • Claude Team
+> 5M VIEW VIDEO PROMPT
+PROMPT
+Make me a full 90s Christmas movie, 2 to 3 minutes, 9:16 for Reels and TikTok. Use the Higgsfield MCP for images and video and the ElevenLabs MCP for voices, sound and music. Don't ask me questions. Check my credits first and tell me the budget before you generate anything.
+Pick a simple small town story. Girl comes home for Christmas and runs into the boy she left behind, a dad and his daughter at a tree lot, or two families fighting over the best decorated house. One want, one problem, one warm ending.
+write 15 scenes of 10 seconds each. Every scene gets one shot (wide, close up or a slow push in), one short line of dialogue, the background sound and the music (none, soft or swell). People in 90s Christmas movies talk simply:
+"You still put the star on crooked." Put the feeling in ElevenLabs audio tags like [whispers], [laughs], [sighs] or [softly]. The little whisper before the line is what sells it. open on the most emotional moment of the movie, then cut to "earlier that December". Every scene has to work on its own as a clip.
+Put this at the start of every image and video prompt: shot on 35mm Kodak film in 1994, warm tungsten light inside, soft blue snowy light outside, fine film grain, soft glow on the Christmas lights, slightly faded blacks, real skin with no makeup gloss. 90s details only: chunky knit sweaters, flannel, wood paneling, plaid couches, CRT TVs, big bulb Christmas lights with tinsel, station wagons, a diner with a neon sign, snow falling slowly. No phones, no LED lights, no modern cars, no logos, no text.
+Use GPT Image 2.5 to make a character sheet for each character (front, three quarter, side, full body, 3 expressions, in their main outfit) and one empty plate for every location. Use them as references in every scene so the faces and the house never change. Original faces only, nobody who looks like a real actor.
+Make one voice per character with Elevenlabs Voice Design, described in 1 sentence: age, accent, texture, pace.
+Like "a warm 28 year old American woman with a soft small town accent, a little breathy, quick to laugh". Test it on their real line with the audio tags before you make any scenes.
+Make every scene with Seedance 2.5, with the sheets and plates as references and the line in the prompt so the lips move. One slow camera move per scene. Make 2 takes and keep the one with the right face and no warped hands
+The video model gives everyone a random voice. That's why most AI videos sound fake. So pull the audio, clean it with Elevenlabs Voice Isolator, find each line with Speech to Text, and run every line through Elevenlabs Voice Changer with that character's voice. Put it back at the same timestamp. The lips still match because only the voice changes.
+For the talking close ups use Elevenlabs chimera: one image of the character + one line with audio tags, in their voice. If you can't run Chimera from the MCP, write me the image, line and voice for each one and I'll run them ir ElevenCreative.
+Add ElevenLabs Sound Effects under every scene (snow wind, fireplace, sleigh bells, a busy mall) and make one instrumental 90s Christmas score with ElevenLabs Music: soft orchestra, celesta, sleigh bells, strings,
+a big swell
+on the emotional moment. Duck it under every line. No real songs.
+Cut it together with ffmpeg. 24fps, a subtle film grain pass, a title card in a classic 90s serif over snow. Export the full movie and every scene as its own clip, with a short caption for each. show me the first 3 scenes before you make the rest, and tell me the credits you spent. - reasonable prompt
