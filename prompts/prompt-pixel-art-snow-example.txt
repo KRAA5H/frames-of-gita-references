@@ -1,0 +1,3 @@
+Prompt: "Create a tiktok video explaining the scenario of what would happen if it never snowed again across the world.
+Make the style similiar to pixel art.
+Include a narrator and make it optimized to similiar videos currently THE LAST SHOWEAL trending on TikTok™ - don’t do this, but that’s the prompt they use on Claude
