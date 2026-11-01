@@ -160,3 +160,6 @@ No user credentials, private conversations or internal working records are inclu
 ## Latest additions
 
 See [Urmila puppet-stage and Ramanujan biography references](latest-references.md) for the two videos added on 27 October, with source links, observed metrics and style notes
+
+See [story references added 1 November 2026](story-references-2026-11-01.md) for six more reviewed reels: painted Krishna storybook, thin gold line-diagram explainer, an Oppenheimer/Gita hook, cream-paper self-inquiry, a painterly Hanuman micro-reel and the Bhima-Hanuman tail story
+
